@@ -8,3 +8,4 @@ main(){
 	else if (x >= -7 && x < -3) cout << "3";
 	else cout << "function isnot declared";
 }
+//;lkj;olkjo;lkj
