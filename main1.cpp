@@ -28,12 +28,6 @@ main(){
 	else{
 		cout << "You should go to " << x2 << " " << y1 << " first" << endl;
 	}
-	if (x1 == x2 or y1 == y2 or abs(x2-x1) == abs(y2-y1)){
-		cout << "you can do it" << endl;
-	}
-	else{
-		cout << "You should go to " << x2 << " " << y1 << " first" << endl;
-	}
 	if (abs(x2-x1) == abs(y2-y1)){
 		cout << "you can do it" << endl;
 	}
